@@ -7,6 +7,7 @@ Team Mates:
 1. NOR AZREEN BINTI ASARI 2217638
 2. NIK SHAMEERA AZFAREEHA BINTI NIK SHAMLAN 2213916
 tak reti do
+sumpah tak faham
 
 
 ## Rules
