@@ -6,8 +6,9 @@ Section: 1
 Team Mates:
 1. NOR AZREEN BINTI ASARI 2217638
 2. NIK SHAMEERA AZFAREEHA BINTI NIK SHAMLAN 2213916
-tak reti do
-sumpah tak faham
+![Hotel](https://github.com/user-attachments/assets/73001c00-d70a-42f8-98bc-b340eb990945)
+![Hotel (2)](https://github.com/user-attachments/assets/aff693c5-20dd-42d5-93dc-b125eaaa9598)
+
 
 
 ## Rules
